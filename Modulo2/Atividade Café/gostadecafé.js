@@ -23,3 +23,5 @@ function processamento(resposta){
     }
     
 }
+
+console.log('Fim')
